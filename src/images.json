@@ -1,0 +1,372 @@
+{
+ "heroRoom": {
+  "base": "/images/hero/modern-space-with-reflective-epoxy-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1149,
+  "alt": "Modern open space with a reflective seamless floor and tall windows"
+ },
+ "lobby": {
+  "base": "/images/commercial/curved-reception-lobby-glossy-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Curved reception desk in a bright lobby with a glossy floor"
+ },
+ "carShowroom": {
+  "base": "/images/commercial/car-showroom-polished-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Car showroom with a polished, reflective floor"
+ },
+ "corridor": {
+  "base": "/images/commercial/gray-gloss-corridor-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Corridor with a glossy gray coated floor"
+ },
+ "bedroom": {
+  "base": "/images/residential/bedroom-with-glossy-light-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 3300,
+  "alt": "Modern bedroom with a glossy light floor"
+ },
+ "metalGlacier": {
+  "base": "/images/metallic/silver-glacier-metallic-epoxy",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1469,
+  "alt": "Silver and white metallic epoxy with a glacier-like pattern"
+ },
+ "galleryFloor": {
+  "base": "/images/residential/bright-interior-glossy-white-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Bright interior with a glossy white floor and recessed lighting"
+ },
+ "hallReflect": {
+  "base": "/images/residential/window-wall-reflected-in-gloss-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1068,
+  "alt": "Floor-to-ceiling windows reflected in a gloss floor"
+ },
+ "greyMarble": {
+  "base": "/images/metallic/soft-gray-marble-look-texture",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Soft gray marble-look surface texture"
+ },
+ "marbleLobby": {
+  "base": "/images/commercial/marble-look-lobby-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Bright lobby with a white marble-look floor"
+ },
+ "camelback": {
+  "base": "/images/local/camelback-mountain-at-sunrise",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1647,
+  "alt": "Camelback Mountain at sunrise above the Phoenix valley"
+ },
+ "lakeCommunity": {
+  "base": "/images/local/aerial-lake-and-golf-community",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1466,
+  "alt": "Aerial view of homes around a lake and golf course"
+ },
+ "retail": {
+  "base": "/images/commercial/boutique-retail-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Boutique retail interior with a light seamless floor"
+ },
+ "office": {
+  "base": "/images/commercial/office-with-coated-concrete-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Office with a desk on a coated concrete floor"
+ },
+ "bar": {
+  "base": "/images/commercial/marble-bar-with-dark-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1200,
+  "alt": "Lit marble bar counter in a dark lounge"
+ },
+ "evCharge": {
+  "base": "/images/garage/electric-vehicle-charging-at-home-garage",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1067,
+  "alt": "Electric vehicle charging outside a modern brick garage"
+ },
+ "garageShow": {
+  "base": "/images/garage/showcase-garage-with-light-panels",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 2400,
+  "alt": "Car in a showcase garage under linear light panels"
+ },
+ "garageRow": {
+  "base": "/images/garage/car-on-striped-garage-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1059,
+  "alt": "Car parked over painted lines on a coated floor"
+ },
+ "buffing": {
+  "base": "/images/commercial/detailing-studio-coated-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1064,
+  "alt": "Detailer polishing a red car in a studio with a coated floor"
+ },
+ "hangar": {
+  "base": "/images/industrial/hangar-with-glossy-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 809,
+  "alt": "Aircraft hangar with a glossy coated floor"
+ },
+ "warehouseCrew": {
+  "base": "/images/industrial/warehouse-team-on-glossy-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Warehouse team reviewing plans on a glossy floor"
+ },
+ "crewWhite": {
+  "base": "/images/process/installer-in-spikes-on-white-epoxy",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "w": 2200,
+  "h": 1467,
+  "alt": "Installer in spiked shoes working a white epoxy coat"
+ },
+ "prep": {
+  "base": "/images/process/crew-preparing-concrete-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1067,
+  "alt": "Crew preparing a concrete floor before coating"
+ },
+ "rollCoat": {
+  "base": "/images/process/rolling-commercial-floor-coating",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Roller applying a commercial floor coating"
+ },
+ "entry": {
+  "base": "/images/residential/entry-hall-with-durable-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1067,
+  "alt": "Entry hall with a durable, easy-clean floor"
+ },
+ "studio": {
+  "base": "/images/residential/white-studio-with-seamless-floor",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "White home studio with a seamless pale floor"
+ },
+ "poolPatio": {
+  "base": "/images/patio/modern-pool-patio-with-lounge",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Modern pool patio with white lounge furniture"
+ },
+ "housePool": {
+  "base": "/images/patio/contemporary-home-with-pool-terrace",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 2398,
+  "alt": "Contemporary home with a pool and terrace"
+ },
+ "coveredPatio": {
+  "base": "/images/patio/timber-covered-patio-and-dining",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Timber-covered patio with outdoor dining"
+ },
+ "flakeStone": {
+  "base": "/images/flake/stone-gray-flake-texture",
+  "widths": [
+   480,
+   800,
+   1200,
+   1600
+  ],
+  "w": 1600,
+  "h": 1066,
+  "alt": "Stone-gray decorative flake texture"
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "desertridgeepoxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Desert Ridge Epoxy — static site + Cloudflare Worker",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "dev": "npm run build && npx wrangler dev",
+    "deploy": "npm run build && npx wrangler deploy"
+  },
+  "engines": { "node": ">=18" }
+}
